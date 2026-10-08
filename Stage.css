@@ -1,0 +1,13 @@
+
+header {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 10;
+}
+
+.logo {
+    display: block;
+    width: 30px;
+    height: auto;
+}
